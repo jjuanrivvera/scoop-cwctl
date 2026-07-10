@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/cwctl/releases/download/v0.1.0/cwctl_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/cwctl/releases/download/v0.1.1/cwctl_0.1.1_windows_amd64.zip",
             "bin": [
                 "cwctl.exe"
             ],
-            "hash": "bb2fd71e80efa768901f18b8a0c34bfc4a066ed76ea7ac6498910dd754e9f757"
+            "hash": "0725513053ad53deee9377926dd4384800eef3c8309ef488a2ad076ad1fd02e0"
         }
     }
 }
